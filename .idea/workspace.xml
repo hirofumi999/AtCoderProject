@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AtcoderProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/90度回転.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Indexed Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dinic_s Maximum flow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Euler-Tour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCA(Euler-Tour).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCA(doubling).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LazySegTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Union-FInd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Z algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bit_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popcount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/しゃくとり法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/コンビネーションmod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最小公倍数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未解答/042D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未解答/115D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未解答/138E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未解答/155D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未解答/巡回セールスマンムズ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未解答/第7回日本情報オリンピック本線ダーツ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/約数生成.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/素因数分解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/素数判定.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/素数生成.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/美コード/LCA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/美コード/薄氷渡りDFS.py" afterDir="false" />
-    </list>
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="12/31 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +124,30 @@
       <option name="presentableId" value="Default" />
       <updated>1636165296315</updated>
     </task>
+    <task id="LOCAL-00001" summary="12/31 commit">
+      <created>1640889593965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640889593965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12/31 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/31 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
