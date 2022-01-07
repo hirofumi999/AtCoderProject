@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AtCoderProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c++/docker-atcoder" vcs="Git" />
   </component>
 </project>
