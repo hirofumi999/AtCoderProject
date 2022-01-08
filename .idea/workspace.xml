@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="12/31 commit">
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC207E">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640889593965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ABC207E">
+      <created>1641653982328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641653982328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,15 +163,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12/31 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/31 commit" />
+    <MESSAGE value="ABC207E" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABC207E" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test1.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="43" />
+          <line>10</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
