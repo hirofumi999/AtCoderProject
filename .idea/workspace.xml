@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="scroll">
-      <change afterPath="$PROJECT_DIR$/done/ABC196D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC235D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC235E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ARC034.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="2022/1/17">
+      <change afterPath="$PROJECT_DIR$/random_checker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +90,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="random_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtcoderProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtcoderProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,9 +136,11 @@
       <item itemvalue="Python.go" />
       <item itemvalue="Python.test3" />
       <item itemvalue="Python.meibo" />
+      <item itemvalue="Python.random_checker" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.random_checker" />
         <item itemvalue="Python.meibo" />
         <item itemvalue="Python.test3" />
       </list>
@@ -193,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641987387882</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2022/1/17">
+      <created>1642412409854</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642412409854</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +246,8 @@
     <MESSAGE value="ABC234E" />
     <MESSAGE value="ABC234F" />
     <MESSAGE value="scroll" />
-    <option name="LAST_COMMIT_MESSAGE" value="scroll" />
+    <MESSAGE value="2022/1/17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/1/17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -230,11 +256,6 @@
           <url>file://$PROJECT_DIR$/todo/ABC207D.py</url>
           <line>43</line>
           <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
