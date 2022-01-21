@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ARC110C">
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ARC128B">
+      <change afterPath="$PROJECT_DIR$/done/ABC197C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC197D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC197E.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
@@ -246,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642601757938</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ARC128B">
+      <created>1642731369236</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642731369236</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +288,8 @@
     <MESSAGE value="create random_checker" />
     <MESSAGE value="ABC179E" />
     <MESSAGE value="ARC110C" />
-    <option name="LAST_COMMIT_MESSAGE" value="ARC110C" />
+    <MESSAGE value="ARC128B" />
+    <option name="LAST_COMMIT_MESSAGE" value="ARC128B" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -287,6 +298,11 @@
           <url>file://$PROJECT_DIR$/todo/ABC207D.py</url>
           <line>43</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test2.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
