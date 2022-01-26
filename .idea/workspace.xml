@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC145D ABC150D">
-      <change afterPath="$PROJECT_DIR$/done/ABC105D.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="AGC036">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <recent name="C:\Users\nack3\PycharmProjects\AtcoderProject\その他の参考になるコード" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test3">
+  <component name="RunManager" selected="Python.go">
     <configuration name="go" type="PythonConfigurationType" factoryName="Python">
       <module name="AtcoderProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,7 +267,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642842008079</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ABC105 AGC036">
+      <created>1643100201754</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643100201754</updated>
+    </task>
+    <task id="LOCAL-00018" summary="AGC036">
+      <created>1643100251552</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643100251552</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +316,9 @@
     <MESSAGE value="ARC128B" />
     <MESSAGE value="ABC197" />
     <MESSAGE value="ABC145D ABC150D" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC145D ABC150D" />
+    <MESSAGE value="ABC105 AGC036" />
+    <MESSAGE value="AGC036" />
+    <option name="LAST_COMMIT_MESSAGE" value="AGC036" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -316,13 +330,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test2.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test3.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="65" />
+          <line>12</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
