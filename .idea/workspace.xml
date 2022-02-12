@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC172D ABC238E">
-      <change afterPath="$PROJECT_DIR$/done/ARC118B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/ABC198E.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ARC118B">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
@@ -311,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644222379062</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ARC118B">
+      <created>1644646021520</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1644646021520</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +357,8 @@
     <MESSAGE value="ABC112C ABC176D ABC237E" />
     <MESSAGE value="ABC238D" />
     <MESSAGE value="ABC172D ABC238E" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC172D ABC238E" />
+    <MESSAGE value="ARC118B" />
+    <option name="LAST_COMMIT_MESSAGE" value="ARC118B" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -361,6 +367,11 @@
           <url>file://$PROJECT_DIR$/todo/ABC207D.py</url>
           <line>43</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
