@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC134D 180E 206D moebius_table">
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ARC119B">
+      <change afterPath="$PROJECT_DIR$/ChineseRem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC239E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extGCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flloor_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/ABC239F.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +51,28 @@
       <recent name="C:\Users\nack3\PycharmProjects\AtcoderProject\その他の参考になるコード" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.go">
+  <component name="RunManager" selected="Python.ChineseRem">
+    <configuration name="ChineseRem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtcoderProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChineseRem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="go" type="PythonConfigurationType" factoryName="Python">
       <module name="AtcoderProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,9 +184,11 @@
       <item itemvalue="Python.meibo" />
       <item itemvalue="Python.random_checker" />
       <item itemvalue="Python.moebius_table" />
+      <item itemvalue="Python.ChineseRem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ChineseRem" />
         <item itemvalue="Python.moebius_table" />
         <item itemvalue="Python.test3" />
         <item itemvalue="Python.random_checker" />
@@ -353,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645240763875</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="ARC119B">
+      <created>1645260403984</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1645260403984</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +431,8 @@
     <MESSAGE value="ARC118B" />
     <MESSAGE value="ABC215E" />
     <MESSAGE value="ABC134D 180E 206D moebius_table" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC134D 180E 206D moebius_table" />
+    <MESSAGE value="ARC119B" />
+    <option name="LAST_COMMIT_MESSAGE" value="ARC119B" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -416,11 +451,6 @@
           <url>file://$PROJECT_DIR$/moebius_table.py</url>
           <line>2</line>
           <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test1.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="97" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
