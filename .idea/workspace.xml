@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC239E, F ChineseRem extGCD floor_sum">
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="193E">
+      <change afterPath="$PROJECT_DIR$/done/ABC240E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -389,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645500967896</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="193E">
+      <created>1645501387022</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1645501387022</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +443,8 @@
     <MESSAGE value="ABC134D 180E 206D moebius_table" />
     <MESSAGE value="ARC119B" />
     <MESSAGE value="ABC239E, F ChineseRem extGCD floor_sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC239E, F ChineseRem extGCD floor_sum" />
+    <MESSAGE value="193E" />
+    <option name="LAST_COMMIT_MESSAGE" value="193E" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
