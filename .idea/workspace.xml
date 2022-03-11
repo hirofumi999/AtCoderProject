@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC241E">
-      <change afterPath="$PROJECT_DIR$/done/ABC241F.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC241F">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
@@ -419,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646212634090</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="ABC241F">
+      <created>1646369369139</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1646369369140</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -441,7 +447,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ABC234E" />
     <MESSAGE value="ABC234F" />
     <MESSAGE value="scroll" />
     <MESSAGE value="2022/1/17" />
@@ -466,7 +471,8 @@
     <MESSAGE value="ABC240E" />
     <MESSAGE value="ABC241D" />
     <MESSAGE value="ABC241E" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC241E" />
+    <MESSAGE value="ABC241F" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABC241F" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
