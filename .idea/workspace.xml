@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC241F">
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ARC126B">
+      <change afterPath="$PROJECT_DIR$/done/ABC243E.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -425,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646369369140</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ARC126B">
+      <created>1647014297969</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1647014297969</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,7 +454,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ABC234F" />
     <MESSAGE value="scroll" />
     <MESSAGE value="2022/1/17" />
     <MESSAGE value="create random_checker" />
@@ -472,7 +478,8 @@
     <MESSAGE value="ABC241D" />
     <MESSAGE value="ABC241E" />
     <MESSAGE value="ABC241F" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC241F" />
+    <MESSAGE value="ARC126B" />
+    <option name="LAST_COMMIT_MESSAGE" value="ARC126B" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
