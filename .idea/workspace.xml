@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC243E">
-      <change afterPath="$PROJECT_DIR$/done/ABC242D.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC242D">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647500039427</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="ABC242D">
+      <created>1647569499872</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1647569499872</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +468,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022/1/17" />
     <MESSAGE value="create random_checker" />
     <MESSAGE value="ABC179E" />
     <MESSAGE value="ARC110C" />
@@ -486,7 +492,8 @@
     <MESSAGE value="ABC241F" />
     <MESSAGE value="ARC126B" />
     <MESSAGE value="ABC243E" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC243E" />
+    <MESSAGE value="ABC242D" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABC242D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,6 +512,11 @@
           <url>file://$PROJECT_DIR$/moebius_table.py</url>
           <line>2</line>
           <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
