@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC242D">
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC242E">
+      <change afterPath="$PROJECT_DIR$/done/ABC245D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC245E.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test1.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangogirls" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -446,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647569499872</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ABC242E">
+      <created>1647574249121</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1647574249121</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,7 +476,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create random_checker" />
     <MESSAGE value="ABC179E" />
     <MESSAGE value="ARC110C" />
     <MESSAGE value="ARC128B" />
@@ -493,7 +500,8 @@
     <MESSAGE value="ARC126B" />
     <MESSAGE value="ABC243E" />
     <MESSAGE value="ABC242D" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC242D" />
+    <MESSAGE value="ABC242E" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABC242E" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -512,11 +520,6 @@
           <url>file://$PROJECT_DIR$/moebius_table.py</url>
           <line>2</line>
           <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test1.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
