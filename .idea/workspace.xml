@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC245F">
-      <change afterPath="$PROJECT_DIR$/done/ABC244E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC246D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC246E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC248E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC249D.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABCs">
+      <change afterPath="$PROJECT_DIR$/done/ABC198E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC251D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC251E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC252D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ABC252E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/ARC138B.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -473,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649584373962</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="ABCs">
+      <created>1652264416538</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1652264416538</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +502,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ARC128B" />
     <MESSAGE value="ABC197" />
     <MESSAGE value="ABC145D ABC150D" />
     <MESSAGE value="ABC105 AGC036" />
@@ -520,7 +526,8 @@
     <MESSAGE value="ABC242E" />
     <MESSAGE value="ABC245E" />
     <MESSAGE value="ABC245F" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC245F" />
+    <MESSAGE value="ABCs" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABCs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
