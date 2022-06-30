@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABCs">
-      <change afterPath="$PROJECT_DIR$/done/ABC198E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC251D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC251E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC252D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ABC252E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/done/ARC138B.py" afterDir="false" />
+    <list default="true" id="443397e6-a7de-411a-aa43-7d737933b0e8" name="Changes" comment="ABC220628">
+      <change afterPath="$PROJECT_DIR$/done/ABC252F.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -480,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652264416538</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="ABC220628">
+      <created>1656398164140</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1656398164140</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +504,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ABC197" />
     <MESSAGE value="ABC145D ABC150D" />
     <MESSAGE value="ABC105 AGC036" />
     <MESSAGE value="AGC036" />
@@ -527,7 +528,8 @@
     <MESSAGE value="ABC245E" />
     <MESSAGE value="ABC245F" />
     <MESSAGE value="ABCs" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABCs" />
+    <MESSAGE value="ABC220628" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABC220628" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
